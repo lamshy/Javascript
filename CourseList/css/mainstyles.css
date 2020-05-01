@@ -1,0 +1,87 @@
+h1 {
+  color: burlywood;
+  background-color: white;
+  font: bold 40px/50px Verdana,Sans-serif;
+}
+
+h2{
+  color: cornflowerblue;
+  background-color: white;
+  font: bold 30px/34px Georgia, serif;
+}
+
+h3{
+  color: Gray;
+  background-color: white;  
+  font: bold 26px/28px Arial, Sans-serif;
+}
+
+h4{
+  color: chocolate;
+  background-color: white;
+  font: bold 12px/12px Georgia, serif;
+}
+
+p{
+	  color: blue;
+	  font: bold 20px/30px Georgia, serif;
+}
+
+.hidden {
+    display: none;
+}
+
+
+div{
+	  color: black;
+	  font: bold 16px/18px Georgia, serif;
+  
+}
+
+.imgsample{
+	margin: auto;
+    width: 65%;
+}
+
+table{
+	border-collapse: collapse;
+	margin: 0 auto;
+	text-align: center;
+	font: bold 16px/18px Arial, Sans-serif;
+}
+
+table th{
+	text-align: center;
+	border: 1px solid #cad9ea;
+	color: #666;
+	height: 30px;
+	font: bold 16px/18px Arial, Sans-serif;
+}
+
+table td {
+	text-align: center;
+	border: 1px solid #cad9ea;
+	color: black;
+	height: 30px;
+	font: bold 16px/18px Arial, Sans-serif;
+}
+
+table thead th
+{
+	background-color: #CCE8EB;
+	width: 100px;
+	color: black;
+	font: bold 16px/18px Arial, Sans-serif;
+}
+table tr:nth-child(odd)
+{
+	background: #fff;
+}
+table tr:nth-child(even)
+{
+	background: #F5FAFA;
+}
+
+
+
+
